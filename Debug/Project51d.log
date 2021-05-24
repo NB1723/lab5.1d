@@ -1,0 +1,11 @@
+﻿  5.1.D.cpp
+F:\!!!___NB\ооп\lab5\Project51d\Pair.h(15,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(8,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(11,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(12,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(13,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(14,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\5.1.D.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab5\Project51d\5.1.D.cpp(14,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Project51d.vcxproj -> F:\!!!___NB\ооп\lab5\Project51d\Debug\Project51d.exe

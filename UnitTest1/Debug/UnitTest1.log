@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+F:\!!!___NB\ооп\lab5\Project51d\Pair.h(15,6): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(8,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(11,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(12,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(13,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.h(14,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.cpp(7,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.cpp(20,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.cpp(28,50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.cpp(36,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\Complex.cpp(45,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\!!!___NB\ооп\lab5\Project51d\UnitTest1\UnitTest1.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\!!!___NB\ооп\lab5\Project51d\Pair.cpp(7,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     Creating library F:\!!!___NB\ооп\lab5\Project51d\Debug\UnitTest1.lib and object F:\!!!___NB\ооп\lab5\Project51d\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> F:\!!!___NB\ооп\lab5\Project51d\Debug\UnitTest1.dll
